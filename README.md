@@ -1,8 +1,5 @@
 # Login-page-validation
-Use the following:
-
-username: github
-
-
+Use the following:  
+username: github    
 password: learning
 
