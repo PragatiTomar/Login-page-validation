@@ -1,0 +1,78 @@
+body{
+    background: url('https://th.bing.com/th/id/R.7f3ac1c45342f6a9b8c5eabd9bb6ac8f?rik=emBax2HsKBw18A&riu=http%3a%2f%2fwallpapercave.com%2fwp%2fjvMCbgD.jpg&ehk=hYTdf%2bXUZJ%2bEUpJrUPSpeIuT6O%2b7vOf4okUX%2f0%2flRi8%3d&risl=&pid=ImgRaw&r=0');
+   
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+#hi{
+    /* border: 10 px red; */
+    /* border-style: solid; */
+    border-width: 10 px;
+    margin: 100px auto;
+    padding: 100 px;
+    width: 700px;
+    height: 500px;
+    text-align: center;
+    border-radius: 5px;
+    background-color: rgb(97, 129, 158);
+}
+#login{
+    margin: 20px auto;
+    padding: 20px;
+    font-style: oblique;
+    font-size: 25px;
+}
+.form-group{
+    font-family: 'Ubuntu Condensed', sans-serif;
+    text-align: center;
+    background-color: rgb(36, 62, 63);
+    display: block;
+    border: 3px solid;
+    width: 600px;
+    position: relative;
+    padding: 20px;
+    margin: 50px auto;
+    height: 180px;
+    border-radius: 5px;
+    /* border-radius: 15px; */
+
+}
+#username{
+    /* display: block; */
+    margin: 20px auto;
+    width: 500px ;
+    height: 25px ;
+    padding: 100px auto;
+    text-align: center;
+    border-radius: 3px;
+    
+}
+#password{
+    /* display: block; */
+    margin: 20px auto;
+    width: 500px;
+    height: 25px;
+    padding: 100px auto;
+    text-align: center;
+    border-radius: 3px;
+    
+}
+.container button{
+    border-radius: 5px;
+    margin: 20px;
+    padding: 3px;
+    width: 200px;
+    height: 10 px;
+    font-size: 20px;
+    font-style: oblique;
+    color: rgb(35, 106, 82);
+    background-color: bisque;
+
+    
+}
+.container button:hover{
+    background-color: rgb(172, 178, 61);
+}
